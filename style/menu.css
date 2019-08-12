@@ -1,0 +1,28 @@
+
+#menu
+{
+	height: 50px;
+	float: right;
+	margin-right:90px;
+}
+#menu li
+{
+	display:block;
+	width:150px;
+	float: left;
+	height: 55px;
+	text-align:center;
+	line-height: 55px;
+	color: white;
+	
+	
+}
+#menu li a
+{
+	color: white;
+}
+#menu li:hover
+{
+	background-color: rgb(79,51,47);
+}
+
